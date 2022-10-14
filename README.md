@@ -1,7 +1,7 @@
 # warzoneaio
 Since i see kids are selling this AIO for 50$ or sth i will put this on here. 
 
-If you are interested in ud warzone tools/service -> https://discord.gg/ebook
+If you are interested in ud warzone tools/service/src -> https://discord.gg/ebook
 
 This is might be dtc or some features don't work but if they sell it :)
 
